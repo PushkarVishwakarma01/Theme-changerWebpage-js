@@ -12,7 +12,8 @@ A simple and interactive Theme Changer Web Page built using HTML, CSS, and JavaS
 ---
 
 ## 📷 Preview
-(Add a screenshot of your webpage here once uploaded)
+<img width="2559" height="1424" alt="image" src="https://github.com/user-attachments/assets/346ce143-c695-4de7-a52a-e6806700698e" />
+
 
 ---
 
