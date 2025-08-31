@@ -12,7 +12,7 @@ A simple and interactive Theme Changer Web Page built using HTML, CSS, and JavaS
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to see the project live](https://pushkarvishwakarma01.github.io/theme-changer-webpage/)
+👉 [Click here to see the project live](https://pushkarvishwakarma01.github.io/Theme-changerWebpage-js/)
 
 ---
 
